@@ -1,4 +1,3 @@
-# Rhythm
+# Rhythm Docs
 
-Rhythm is an extraction of Compass's vertical rhythm module, removing all dependencies on Compass,
-removing pixel-fallback and removing all mixins and fucntions unrelated to typography. I've made some changes, but all credit to the original author: Eric M. Suzanne.
+This is a github pages site for the documentation of [Rhythm](https://github.com/Undistraction/rhythm)
