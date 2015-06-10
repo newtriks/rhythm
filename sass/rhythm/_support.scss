@@ -316,7 +316,7 @@ $rhythm-error-thrown: false;
       $rhythm-last-error: $error !global;
     }
   } @else {
-    @error "#{$error} #{$message}";
+    //@error "#{$error} #{$message}";
   }
   @return null;
 }
